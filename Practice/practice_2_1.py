@@ -1,12 +1,22 @@
 #     Write a program to convert the first letter of a string to uppercase.
 
+s = "hello world"
+print (s.capitalize())
+
 #     Write a program to count the number of occurrences of a substring in a string.
+
+print (s.count("l"))
 
 #     Write a program to check if a string starts with a specific substring.
 
+print (s.startswith("he"))
+
 #     Write a program to check if a string ends with a specific substring.
 
+print (s.endswith("ld"))
 #     Write a program to find the index of a substring in a string.
+
+
 
 #     Write a program to split a string into a list based on a specific character.
 
